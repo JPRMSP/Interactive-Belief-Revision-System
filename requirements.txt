@@ -1,4 +1,4 @@
 streamlit
-sympy
 networkx
 pyvis
+sympy==1.11.1
